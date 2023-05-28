@@ -1,0 +1,16 @@
+.not-found-container {
+  text-align: center;
+  padding: 20px;
+}
+
+.not-found-image {
+  height: 400px;
+}
+
+.retry-button {
+  background-color: #4656a1;
+  color: white;
+  border-radius: 5px;
+  border-width: 0px;
+  padding: 10px 20px;
+}
